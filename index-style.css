@@ -1,0 +1,61 @@
+
+html{
+    width: 100%;
+    height: 100%;
+}
+body.body__font-family--lc_cn {
+    font-family: "Lucida Console", "Courier New" ;    
+}
+ 
+body.body__margin {
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    /* border: 1px solid black; */
+}
+h1.heading--center {
+    text-align: center;
+}
+
+
+div.container--center {
+    text-align: center;
+    /* border: 1px solid black; */
+}
+
+div.container--center ul.inline-display {
+    display: inline-block;
+    text-align: left;
+}
+
+ul li a.link--black {
+    color : black;
+}
+
+div.footer--position {
+    display: block;
+    text-align: right;
+    margin-top: 400px;
+    /* border: 1px solid black; */
+}
+
+div.footer--position div.references-container {
+    display : inline-block;
+    /* border: 1px solid red; */
+    text-align: center;
+    margin-right: 40px;
+}
+
+div.footer--position div.references-container span.developer__name--style{
+    color:black;
+    font-style: italic;
+}
+
+div.footer--position div.references-container a.link__position-and-style{
+    color:black;
+    font-weight: bold;
+}
+
+
+
+

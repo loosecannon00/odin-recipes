@@ -1,0 +1,53 @@
+body.body__font-family--lc_cn {
+    font-family: "Lucida Console", "Courier New" ;    
+}
+
+h1.heading__position {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+/* setting (height,width) of image to (400px,auto)  */
+img.img__dimensions--h400_wa  {
+    height: 400;
+    width: auto;
+}
+
+img.img__position--center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.img__border--black{
+    border : 2px solid black;
+}
+
+#text-container {
+    display : block;
+    background-color: white;
+    color: black;
+    margin : 25px 150px 0px 150px;
+}
+
+/* #text-container div#home-link--container {
+    display: block;
+    border : 1px solid black;
+    margin-left: 0px;
+} */
+
+div.footer-container {
+    display: block;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+div.footer-container a.link__position-and-style {
+    display: inline-block;
+    color:black;
+    font-weight: bold;
+}
+
+
+
