@@ -13,14 +13,38 @@ body.body__margin {
     margin-right: 150px;
     /* border: 1px solid black; */
 }
+
 h1.heading--center {
     text-align: center;
+    margin-top: 50px;
 }
 
+ul {
+    width : 195px;
+    margin: 0 auto;
+    padding-left : 10px;
+}
+ ul li a.link--black {
+    color: black;
+ }
 
+.references-container{
+    margin-top: 500px;
+    margin-right : 50px;
+    text-align : right;
+    font-style: italic;
+}
+ a.link__position-and-style {
+    display : block;
+    padding-right : 5px;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+ }
+/* 
 div.container--center {
     text-align: center;
-    /* border: 1px solid black; */
+    border: 1px solid black; 
 }
 
 div.container--center ul.inline-display {
@@ -36,12 +60,12 @@ div.footer--position {
     display: block;
     text-align: right;
     margin-top: 400px;
-    /* border: 1px solid black; */
+    border: 1px solid black; 
 }
 
 div.footer--position div.references-container {
     display : inline-block;
-    /* border: 1px solid red; */
+    border: 1px solid red; 
     text-align: center;
     margin-right: 40px;
 }
@@ -55,7 +79,7 @@ div.footer--position div.references-container a.link__position-and-style{
     color:black;
     font-weight: bold;
 }
-
+ */
 
 
 
